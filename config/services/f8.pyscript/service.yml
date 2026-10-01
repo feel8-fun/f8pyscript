@@ -8,4 +8,4 @@ launch:
   - -m
   - f8pyscript.main_script
   env: {}
-  workdir: ../../..
+  workdir: ${F8_PACKAGE_ROOT}
